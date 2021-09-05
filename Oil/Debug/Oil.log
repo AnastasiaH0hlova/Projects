@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\paren\Projects\Oil\Source.cpp(139,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\paren\Projects\Oil\Source.cpp(179,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\paren\Projects\Oil\Source.cpp(294,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\paren\Projects\Oil\Source.cpp(301,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Oil.vcxproj -> C:\Users\paren\Projects\Oil\Debug\Oil.exe
