@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\paren\Projects\PerfectNumbers\Source.cpp(34,33): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\paren\Projects\PerfectNumbers\Source.cpp(35,33): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  PerfectNumbers.vcxproj -> C:\Users\paren\Projects\PerfectNumbers\Debug\PerfectNumbers.exe
